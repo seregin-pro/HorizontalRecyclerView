@@ -12,7 +12,7 @@ You can download this project and run on Android Studio
 ## Setup
 
 Add module "hrv" in your project.
-It temporary for sure.
+it's temporary for sure.
 
 ## Usage
 
