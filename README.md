@@ -11,6 +11,9 @@ You can download this project and run on Android Studio
 
 ## Setup
 
+Add module "hrv" in your project.
+It temporary for sure.
+
 ## Usage
 
 For an example see [MainActivity](app/src/main/java/ru/zettatech/horizontalrecyclerview/MainActivity.kt) in demo project.
