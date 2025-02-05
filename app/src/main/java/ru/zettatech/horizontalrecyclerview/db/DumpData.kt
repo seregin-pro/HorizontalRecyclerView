@@ -1,7 +1,7 @@
-package ru.zettatech.db
+package ru.zettatech.horizontalrecyclerview.db
 
 import android.database.sqlite.SQLiteDatabase
-import ru.zettatech.constant.Constant
+import ru.zettatech.horizontalrecyclerview.constant.Constant
 
 class DumpData {
     fun insertData(db: SQLiteDatabase) {

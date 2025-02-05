@@ -1,10 +1,10 @@
-package ru.zettatech.db
+package ru.zettatech.horizontalrecyclerview.db
 
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import ru.zettatech.category.Category
-import ru.zettatech.constant.Constant
+import ru.zettatech.horizontalrecyclerview.category.Category
+import ru.zettatech.horizontalrecyclerview.constant.Constant
 import java.util.HashMap
 
 class DBHelper private constructor(context: Context) :

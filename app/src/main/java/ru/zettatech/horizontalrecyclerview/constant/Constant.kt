@@ -1,4 +1,4 @@
-package ru.zettatech.constant
+package ru.zettatech.horizontalrecyclerview.constant
 
 object Constant {
     // Database

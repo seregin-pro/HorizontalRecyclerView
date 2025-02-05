@@ -4,10 +4,10 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.snackbar.Snackbar
-import ru.zettatech.category.Category
-import ru.zettatech.constant.Constant
-import ru.zettatech.db.DBHelper
+import ru.zettatech.horizontalrecyclerview.category.Category
+import ru.zettatech.horizontalrecyclerview.constant.Constant
 import ru.zettatech.horizontalrecyclerview.databinding.ActivityMainBinding
+import ru.zettatech.horizontalrecyclerview.db.DBHelper
 import ru.zettatech.hrv.adapter.ChildAdapter
 import ru.zettatech.hrv.adapter.ParentAdapter
 import ru.zettatech.hrv.item.ChildItem

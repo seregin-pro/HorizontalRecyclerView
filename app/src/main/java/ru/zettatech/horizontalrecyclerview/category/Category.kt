@@ -1,4 +1,4 @@
-package ru.zettatech.category
+package ru.zettatech.horizontalrecyclerview.category
 
 class Category (private var categoryId: Int, private var image: String, private var title: String) {
 
